@@ -23,7 +23,7 @@ samples, guidance on mobile development, and a full API reference.
 - Links de Referencia  (https://youtu.be/BCmgJY0zxBE?feature=shared)
 - Edna Nevarez Ortega a.21308051280395@cbtis128.edu.mx
 
-## Resultado de mi Aplicacion
+## Resultado de mi Aplicación
 
 - Captura 1
 
